@@ -1,0 +1,13 @@
+{
+    "name": "CompanyWinmax",
+    "alias": "companywinmax",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\CompanyWinmax\\Providers\\CompanyWinmaxServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
