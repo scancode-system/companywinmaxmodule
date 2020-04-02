@@ -9,5 +9,5 @@
     ],
     "aliases": {},
     "files": [],
-    "requires": []
+    "requires": ["scancodebase", "ipi", "productstocknowafter", "priceperqty"]
 }
