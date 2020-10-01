@@ -25,7 +25,7 @@
     "type": "laravel-module",
     "require": {
         "scancode-system/ipi-module":"^2.0",
-        "scancode-system/product-stock-now-after-module":"^2.0",
+        "scancode-system/product-stock-module":"^2.0",
         "scancode-system/price-per-qty-module":"^2.0",
         "scancode-system/scancode-base-module":"^2.0"
     }
